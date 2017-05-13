@@ -25,6 +25,7 @@ import JumbotronPage from './Components/JumbotronPage';
 import AlertsPage from './Components/AlertsPage';
 import CollapsePage from './Components/CollapsePage';
 import ListGroupPage from './Components/ListGroupPage';
+import CheckboxPage from './Components/CheckboxPage';
 import NotFound from './NotFound';
 import Components from './Components';
 import UI from './UI';
@@ -58,6 +59,7 @@ const routes = (
       <Route path="jumbotron/" component={JumbotronPage} />
       <Route path="collapse/" component={CollapsePage} />
       <Route path="listgroup/" component={ListGroupPage} />
+      <Route path="checkbox/" component={CheckboxPage} />
     </Route>
     <Route path="*" component={NotFound} />
   </Route>

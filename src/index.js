@@ -66,6 +66,7 @@ import Collapse from './Collapse';
 import ListGroupItem from './ListGroupItem';
 import ListGroupItemHeading from './ListGroupItemHeading';
 import ListGroupItemText from './ListGroupItemText';
+import Checkbox from './components/Checkbox';
 import {
   UncontrolledAlert,
   UncontrolledButtonDropdown,
@@ -148,4 +149,5 @@ export {
   UncontrolledDropdown,
   UncontrolledNavDropdown,
   UncontrolledTooltip,
+  Checkbox,
 };

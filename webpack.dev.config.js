@@ -37,6 +37,7 @@ var paths = [
   '/components/alerts/',
   '/components/collapse/',
   '/components/listgroup/',
+  '/components/checkbox/',
   '/404.html'
 ];
 

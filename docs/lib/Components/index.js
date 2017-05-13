@@ -116,6 +116,10 @@ class Components extends React.Component {
         {
           name: 'Tooltips',
           to: '/components/tooltips/'
+        },
+        {
+            name: 'Checkbox',
+            to: '/components/checkbox/'
         }
       ]
     };
